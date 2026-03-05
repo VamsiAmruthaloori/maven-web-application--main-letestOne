@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>HdfcBank-Release Nexus Repository</name>
-	      <url>http://54.174.133.66:8081/repository/HdfcBank-Release/</url>
+	      <name>sbibank-Release Nexus Repository</name>
+	      <url>http://98.88.81.2:8081/repository/sbibank-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>HdfcBank-Snapshot Nexus Repository </name>
-	      <url>http://54.174.133.66:8081/repository/HdfcBank-Snapshot/</url>
+	      <name>sbibank-Snapshot Nexus Repository </name>
+	      <url>http://98.88.81.2:8081/repository/sbibank-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
